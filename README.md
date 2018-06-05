@@ -1,5 +1,5 @@
 # interview
-java 面试复习总结（from https://mp.weixin.qq.com/s/AnTbNhDOsDX84ETywfiGLQ）
+java 面试复习总结（from https://blog.720ui.com/2018/java_interview_final ）
 
 ## 基础篇
 
